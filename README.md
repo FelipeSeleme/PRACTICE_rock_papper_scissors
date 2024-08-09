@@ -65,6 +65,3 @@ This is a simple command-line implementation of the classic Rock-Paper-Scissors 
    - Follow the on-screen instructions to play.
    - To quit the game, type "Q" or "q" when prompted.
 
-## License
-
-This project is licensed under the MIT License.
